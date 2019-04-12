@@ -1,5 +1,5 @@
 # sc (Shell Calculator)
-## Command line calculator
+## Linux's shell calculator
 ### Installation:
 - Clone the repository.<br>
   `git clone https://github.com/fjperezcostas/sc.git`
